@@ -1,2 +1,2 @@
 # DSA and Java script
-Daily coding questions
+Just coding for fun :)
