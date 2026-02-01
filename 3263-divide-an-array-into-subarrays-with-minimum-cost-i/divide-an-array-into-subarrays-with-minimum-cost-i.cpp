@@ -16,6 +16,6 @@ public:
                 secondMin = nums[i];
             }
         }
-        return nums[0]+firstMin+secondMin;
+        return score +firstMin+secondMin;
     }
 };
