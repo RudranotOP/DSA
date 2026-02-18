@@ -8,7 +8,7 @@ public:
             if(currBit == n%2)
                 return false;
             currBit = n%2;
-            n/=2;    
+            n=n/2;    
         }
         return true;
     }
