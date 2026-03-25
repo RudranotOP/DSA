@@ -1,2 +1,2 @@
-# DSA and Java script
+# DSA 
 Just coding for fun :)
