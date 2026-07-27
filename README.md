@@ -8,6 +8,7 @@ Just coding for fun :)
 | ------- |
 | [0016-3sum-closest](https://github.com/RudranotOP/DSA/tree/master/0016-3sum-closest) |
 | [1301-number-of-paths-with-max-score](https://github.com/RudranotOP/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RudranotOP/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RudranotOP/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RudranotOP/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RudranotOP/DSA/tree/master/3620-network-recovery-pathways) |
@@ -19,6 +20,7 @@ Just coding for fun :)
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/RudranotOP/DSA/tree/master/0016-3sum-closest) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RudranotOP/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +40,7 @@ Just coding for fun :)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RudranotOP/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RudranotOP/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RudranotOP/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RudranotOP/DSA/tree/master/3620-network-recovery-pathways) |
