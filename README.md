@@ -8,6 +8,7 @@ Daily dsa grind
 | ------- |
 | [0001-two-sum](https://github.com/RudranotOP/DSA/tree/master/0001-two-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RudranotOP/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RudranotOP/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RudranotOP/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ Daily dsa grind
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/RudranotOP/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RudranotOP/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -37,4 +39,8 @@ Daily dsa grind
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RudranotOP/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/RudranotOP/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
