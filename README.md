@@ -10,12 +10,14 @@ Daily dsa grind
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RudranotOP/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RudranotOP/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RudranotOP/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RudranotOP/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RudranotOP/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RudranotOP/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RudranotOP/DSA/tree/master/0001-two-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RudranotOP/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Stack
 |  |
 | ------- |
@@ -62,4 +64,16 @@ Daily dsa grind
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RudranotOP/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+## String
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RudranotOP/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RudranotOP/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RudranotOP/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
