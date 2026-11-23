@@ -53,6 +53,7 @@ Daily dsa grind
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RudranotOP/DSA/tree/master/0002-add-two-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RudranotOP/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RudranotOP/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
@@ -88,4 +89,12 @@ Daily dsa grind
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/RudranotOP/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RudranotOP/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RudranotOP/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
