@@ -58,6 +58,7 @@ Daily dsa grind
 | [0002-add-two-numbers](https://github.com/RudranotOP/DSA/tree/master/0002-add-two-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RudranotOP/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RudranotOP/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/RudranotOP/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RudranotOP/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
@@ -108,4 +109,8 @@ Daily dsa grind
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RudranotOP/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/RudranotOP/DSA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
