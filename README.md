@@ -116,4 +116,8 @@ Daily dsa grind
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/RudranotOP/DSA/tree/master/3360-stone-removal-game) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/RudranotOP/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
