@@ -15,6 +15,7 @@ Daily dsa grind
 | [3364-minimum-positive-sum-subarray](https://github.com/RudranotOP/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RudranotOP/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RudranotOP/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RudranotOP/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,10 +65,12 @@ Daily dsa grind
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RudranotOP/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RudranotOP/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RudranotOP/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RudranotOP/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
